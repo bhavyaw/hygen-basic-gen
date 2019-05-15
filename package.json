@@ -1,0 +1,12 @@
+{
+  "name": "hygen-basic-gen",
+  "version": "0.1.1",
+  "description": "Collection of nifty project scaffolders. ",
+  "main": "index.js",
+  "author": "Bhavya Wadhwa",
+  "license": "MIT",
+  "dependencies": {
+    "hygen": "^4.0.2",
+    "hygen-add": "^1.0.5"
+  }
+}
